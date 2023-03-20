@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 graphene = "*"
 graphene-django = "*"
-django = ">=2.1.5"
+django = ">=4"
 
 [dev-packages]
 twine = "*"
